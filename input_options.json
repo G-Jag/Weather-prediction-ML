@@ -1,0 +1,22 @@
+{
+  "PC1": 0.0,
+  "temp_max_prec_interaction": 0.0,
+  "temp_min_category": 0.0,
+  "temp_min_wind_interaction": 0.0,
+  "temp_max_mon_avg": 0.0,
+  "precipitation_mon_avg": 0.0,
+  "temp_min_mon_avg": 0.0,
+  "precipitation_wind_interaction": 0.0,
+  "wind_mon_avg": 0.0,
+  "temp_max_year_avg": 0.0,
+  "precipitation_year_avg": 0.0,
+  "temp_max": 0.0,
+  "temp_min": 0.0,
+  "wind_year_avg": 0.0,
+  "temp_max_wind_interaction": 0.0,
+  "year": 0,
+  "temp_min_year_avg": 0.0,
+  "temp_max_category": 0.0,
+  "month": 0,
+  "wind": 0.0
+}
